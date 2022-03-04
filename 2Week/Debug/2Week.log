@@ -1,0 +1,15 @@
+﻿  예제2-5.cpp
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(42,6): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(42,6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(43,5): error C2143: 구문 오류: ';'이(가) '>>' 앞에 없습니다.
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(43,5): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(45,10): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(45,1): error C2371: 'c_temp': 재정의. 기본 형식이 다릅니다.
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(40): message : 'c_temp' 선언을 참조하십시오.
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(47,6): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(47,6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(47,1): error C2086: 'int cout': 재정의
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2-5.cpp(42): message : 'cout' 선언을 참조하십시오.
+  예제2.cpp
+  코드를 생성하고 있습니다...
+C:\Users\거북이\Desktop\컴퓨터\c언어\visual studio\2Week\예제2.cpp(17): error C4700: 초기화되지 않은 'f_temp' 지역 변수를 사용했습니다.
